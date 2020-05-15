@@ -45,6 +45,8 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 ## Package Management
 
 - [pkgs](https://github.com/janet-lang/pkgs) The official package listing for Janet.
+- [hermes](https://github.com/andrewchambers/hermes) Nix/Guix like
+  software environment manager with Janet/jpm support.
 
 ## Web
 
@@ -76,6 +78,7 @@ library with a Clojure Ring-like abstraction.
 ## Random
 
 - [Spork](https://github.com/janet-lang/spork) Various Janet utility modules.
+- [janetsh](https://github.com/andrewchambers/janetsh) A new system shell that uses the Janet programming language for high level scripting while also supporting the things we love about sh.
 
 # Related tooling/projects
 
