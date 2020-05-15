@@ -63,6 +63,10 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 - [Circlet](https://github.com/janet-lang/circlet) HTTP and networking
 library with a Clojure Ring-like abstraction.
 
+### Client
+
+- [jurl](https://github.com/sepisoad/jurl) Janet bindings for libcurl
+
 ## Game Dev
 
 ### Graphics
