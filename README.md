@@ -50,7 +50,7 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 
 - [pkgs](https://github.com/janet-lang/pkgs) The official package listing for Janet.
 - [hermes](https://github.com/andrewchambers/hermes) Nix/Guix like
-  software environment manager with Janet/jpm support.
+  software environment manager.
 
 ## Web
 
@@ -83,15 +83,17 @@ library with a Clojure Ring-like abstraction.
 
 - [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
 - [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
+- [janet-redis](https://github.com/andrewchambers/janet-redis) Postgres bindings
 
 ## Serialization
 
 - [json](https://github.com/janet-lang/json) JSON library
+- [jdn](https://github.com/andrewchambers/janet-jdn) Janet Data Notation library
 
 ## Random
 
 - [Spork](https://github.com/janet-lang/spork) Various Janet utility modules.
-- [janetsh](https://github.com/andrewchambers/janetsh) A new system shell that uses the Janet programming language for high level scripting while also supporting the things we love about sh.
+- [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
 
 # Related tooling/projects
 
