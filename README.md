@@ -19,6 +19,7 @@ across one, feel free to make a PR.
     - [Web](#web)
         - [Frameworks](#frameworks)
         - [Server](#server)
+        - [Client](#client)
     - [Game Dev](#game-dev)
         - [Graphics](#graphics)
     - [GUI](#gui)
