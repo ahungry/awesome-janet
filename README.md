@@ -67,6 +67,7 @@ library with a Clojure Ring-like abstraction.
 
 ## GUI
 
+- [janetui](https://github.com/janet-lang/janetui) Bindings to libui
 - [webview](https://github.com/janet-lang/webview) Electron-like
   webview bindings.
 
@@ -74,6 +75,10 @@ library with a Clojure Ring-like abstraction.
 
 - [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
 - [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
+
+## Serialization
+
+- [json](https://github.com/janet-lang/json) JSON library
 
 ## Random
 
