@@ -42,6 +42,10 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 
 # JPM installable packages
 
+## Package Management
+
+- [pkgs](https://github.com/janet-lang/pkgs) The official package listing for Janet.
+
 ## Web
 
 ### Frameworks
@@ -58,6 +62,16 @@ library with a Clojure Ring-like abstraction.
 ### Graphics
 
 - [Jaylib](https://github.com/janet-lang/jaylib) Janet bindings to Raylib.
+
+## GUI
+
+- [webview](https://github.com/janet-lang/webview) Electron-like
+  webview bindings.
+
+## Database
+
+- [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
+- [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
 
 ## Random
 
