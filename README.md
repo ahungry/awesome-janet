@@ -3,6 +3,9 @@
 Curated list of libraries and tooling for the Janet programming
 language: https://janet-lang.org
 
+If you have a library or package you're working on, or have come
+across one, feel free to make a PR.
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
@@ -28,6 +31,8 @@ language: https://janet-lang.org
 
 # Editors
 
+This section doesn't need much explanation.
+
 ## Emacs
 
 - [janet-mode](https://github.com/ALSchwalm/janet-mode) Major mode for
@@ -45,6 +50,9 @@ wrapping an inferior Janet process
 Studio Code plugin (Syntax highlighting, Eval sexp/file)
 
 # JPM installable packages
+
+JPM (Janet Package Manager) is the official package manager of Janet
+and comes with the Janet distribution.
 
 ## Package Management
 
@@ -90,11 +98,20 @@ library with a Clojure Ring-like abstraction.
 
 ## Random
 
-- [Spork](https://github.com/janet-lang/spork) Various Janet utility modules.
+- [Spork](https://github.com/janet-lang/spork) Various Janet utility
+  modules, including a code formatter.
 - [janetsh](https://github.com/andrewchambers/janetsh) A new system shell that uses the Janet programming language for high level scripting while also supporting the things we love about sh.
 
 # Related tooling/projects
 
+Projects that are not necessarily written in Janet or directly in the
+Janet/JPM ecosystem, but are of potential interest to the Janet
+audience and have direct usage for Janet projects.
+
 - [Puny GUI](https://github.com/ahungry/puny-gui) Pre-built
 cross-platform distribution of Janet runtime with extras (native GUI,
 libcurl, sqlite)
+- [swig (add-janet-branch)](https://github.com/ahungry/swig/tree/feature/Add-janet) SWIG
+  auto-generates bindings from C header files and/or SWIG interface
+  files, and produces the appropriate Janet-wrap bindings (tested/used
+  on IUP, libcurl, libcairo and more).
