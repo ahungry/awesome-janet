@@ -1,5 +1,8 @@
 # Awesome Janet
 
+Curated list of libraries and tooling for the Janet programming
+language: https://janet-lang.org
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
@@ -18,9 +21,6 @@
 - [Related tooling/projects](#related-toolingprojects)
 
 <!-- markdown-toc end -->
-
-Curated list of libraries and tooling for the Janet programming
-language: https://janet-lang.org
 
 # Editors
 
