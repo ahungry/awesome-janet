@@ -1,5 +1,24 @@
 # Awesome Janet
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome Janet](#awesome-janet)
+- [Editors](#editors)
+    - [Emacs](#emacs)
+    - [Vim](#vim)
+    - [VS](#vs)
+- [JPM installable packages](#jpm-installable-packages)
+    - [Web](#web)
+        - [Frameworks](#frameworks)
+        - [Server](#server)
+    - [Game Dev](#game-dev)
+        - [Graphics](#graphics)
+    - [Random](#random)
+- [Related tooling/projects](#related-toolingprojects)
+
+<!-- markdown-toc end -->
+
 Curated list of libraries and tooling for the Janet programming
 language: https://janet-lang.org
 
