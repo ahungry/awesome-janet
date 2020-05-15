@@ -83,7 +83,7 @@ library with a Clojure Ring-like abstraction.
 
 - [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
 - [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
-- [janet-redis](https://github.com/andrewchambers/janet-redis) Postgres bindings
+- [janet-redis](https://github.com/andrewchambers/janet-redis) Redis bindings
 
 ## Serialization
 
