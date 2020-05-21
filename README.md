@@ -63,6 +63,14 @@ and comes with the Janet distribution.
 - [hermes](https://github.com/andrewchambers/hermes) Nix/Guix like
   software environment manager.
 
+## Continuous Integration
+
+### GitHub Actions
+
+- [build.yaml](https://gist.github.com/pyrmont/565756c9a68879a2fca2966ca3e74fa3)
+  A simple workflow for GitHub Actions that will download, set up and
+  test a project
+
 ## Web
 
 ### Frameworks
