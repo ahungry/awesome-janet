@@ -44,6 +44,8 @@ wrapping an inferior Janet process
 ## Vim
 
 - [janet.vim](https://github.com/janet-lang/janet.vim) Syntax files for Janet in Vim
+- [conjure/netrepl](https://github.com/Olical/conjure/wiki/Quick-start:-Janet-(netrepl))
+  NeoVIM Netrepl
 
 ## VS
 
