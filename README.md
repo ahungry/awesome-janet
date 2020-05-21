@@ -68,6 +68,7 @@ and comes with the Janet distribution.
 ### Frameworks
 
 - [Joy](https://github.com/joy-framework/joy) Full stack web framework
+- [Chidi](https://github.com/good-place/chidi) API oriented web framework (WIP).
 
 ### Server
 
@@ -95,6 +96,8 @@ library with a Clojure Ring-like abstraction.
 - [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
 - [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
 - [janet-redis](https://github.com/andrewchambers/janet-redis) Redis bindings
+- [tahani](https://github.com/good-place/tahani) LevelDB bindings
+- [mansion](https://github.com/good-place/mansion) LevelDB store abstraction
 
 ## Serialization
 
