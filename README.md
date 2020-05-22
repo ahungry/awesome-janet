@@ -119,6 +119,13 @@ library with a Clojure Ring-like abstraction.
   modules (includes a code formatter).
 - [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
 
+## Testing
+
+- [Testament](https://github.com/pyrmont/testament) A testing library
+  inspired by clojure.test
+- [tester](https://github.com/joy-framework/tester) A testing library
+  extracted from the Joy project
+
 # Related tooling/projects
 
 Projects that are not necessarily written in Janet or directly in the
