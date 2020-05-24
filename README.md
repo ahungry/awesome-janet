@@ -128,6 +128,7 @@ library with a Clojure Ring-like abstraction.
 - [Spork](https://github.com/janet-lang/spork) Various Janet utility
   modules (includes a code formatter).
 - [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
+- [argparse](https://github.com/janet-lang/argparse) CLI argument parser for Janet
 
 # Related tooling/projects
 
