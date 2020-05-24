@@ -140,6 +140,7 @@ Projects that are not necessarily written in Janet or directly in the
 Janet/JPM ecosystem, but are of potential interest to the Janet
 audience and have direct usage for Janet projects.
 
+- [janetdocs](https://janetdocs.com/) Community doc site
 - [Puny GUI](https://github.com/ahungry/puny-gui) Pre-built
 cross-platform distribution of Janet runtime with extras (native GUI,
 libcurl, sqlite)
