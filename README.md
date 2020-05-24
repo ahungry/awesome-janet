@@ -11,24 +11,25 @@ across one, feel free to make a PR.
 
 - [Awesome Janet](#awesome-janet)
 - [Editors](#editors)
-  - [Emacs](#emacs)
-  - [Vim](#vim)
-  - [VS](#vs)
+    - [Emacs](#emacs)
+    - [Vim](#vim)
+    - [VS](#vs)
 - [JPM installable packages](#jpm-installable-packages)
-  - [Continuous Integration](#continuous-integration)
-    - [GitHub Actions](#github-actions)
-  - [Database](#database)
-  - [Game Dev](#game-dev)
-    - [Graphics](#graphics)
-  - [GUI](#gui)
-  - [Package Management](#package-management)
-  - [Serialization](#serialization)
-  - [Testing](#testing)
-  - [Web](#web)
-    - [Client](#client)
-    - [Frameworks](#frameworks)
-    - [Server](#server)
-  - [Random](#random)
+    - [Continuous Integration](#continuous-integration)
+        - [GitHub Actions](#github-actions)
+    - [Database](#database)
+    - [Game Dev](#game-dev)
+        - [Graphics](#graphics)
+    - [GUI](#gui)
+    - [Package Management](#package-management)
+    - [Serialization](#serialization)
+    - [Testing](#testing)
+    - [Web](#web)
+        - [Client](#client)
+        - [Frameworks](#frameworks)
+        - [Frontend/JS](#frontendjs)
+        - [Server](#server)
+    - [Random](#random)
 - [Related tooling/projects](#related-toolingprojects)
 
 <!-- markdown-toc end -->
@@ -117,6 +118,10 @@ and comes with the Janet distribution.
 
 - [Joy](https://github.com/joy-framework/joy) Full stack web framework
 - [Chidi](https://github.com/good-place/chidi) API oriented web framework (WIP).
+
+### Frontend/JS
+
+- [janetscript](https://github.com/ahungry/janetscript) Janet to JS Transpiler
 
 ### Server
 
