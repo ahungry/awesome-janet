@@ -11,21 +11,24 @@ across one, feel free to make a PR.
 
 - [Awesome Janet](#awesome-janet)
 - [Editors](#editors)
-    - [Emacs](#emacs)
-    - [Vim](#vim)
-    - [VS](#vs)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
+  - [VS](#vs)
 - [JPM installable packages](#jpm-installable-packages)
-    - [Package Management](#package-management)
-    - [Web](#web)
-        - [Frameworks](#frameworks)
-        - [Server](#server)
-        - [Client](#client)
-    - [Game Dev](#game-dev)
-        - [Graphics](#graphics)
-    - [GUI](#gui)
-    - [Database](#database)
-    - [Serialization](#serialization)
-    - [Random](#random)
+  - [Continuous Integration](#continuous-integration)
+    - [GitHub Actions](#github-actions)
+  - [Database](#database)
+  - [Game Dev](#game-dev)
+    - [Graphics](#graphics)
+  - [GUI](#gui)
+  - [Package Management](#package-management)
+  - [Serialization](#serialization)
+  - [Testing](#testing)
+  - [Web](#web)
+    - [Client](#client)
+    - [Frameworks](#frameworks)
+    - [Server](#server)
+  - [Random](#random)
 - [Related tooling/projects](#related-toolingprojects)
 
 <!-- markdown-toc end -->
@@ -58,12 +61,6 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 JPM (Janet Package Manager) is the official package manager of Janet
 and comes with the Janet distribution.
 
-## Package Management
-
-- [pkgs](https://github.com/janet-lang/pkgs) The official package listing for Janet.
-- [hermes](https://github.com/andrewchambers/hermes) Nix/Guix like
-  software environment manager.
-
 ## Continuous Integration
 
 ### GitHub Actions
@@ -72,21 +69,13 @@ and comes with the Janet distribution.
   A simple workflow for GitHub Actions that will download, set up and
   test a project
 
-## Web
+## Database
 
-### Frameworks
-
-- [Joy](https://github.com/joy-framework/joy) Full stack web framework
-- [Chidi](https://github.com/good-place/chidi) API oriented web framework (WIP).
-
-### Server
-
-- [Circlet](https://github.com/janet-lang/circlet) HTTP and networking
-library with a Clojure Ring-like abstraction.
-
-### Client
-
-- [jurl](https://github.com/sepisoad/jurl) Janet bindings for libcurl
+- [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
+- [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
+- [janet-redis](https://github.com/andrewchambers/janet-redis) Redis bindings
+- [tahani](https://github.com/good-place/tahani) LevelDB bindings
+- [mansion](https://github.com/good-place/mansion) LevelDB store abstraction
 
 ## Game Dev
 
@@ -100,24 +89,16 @@ library with a Clojure Ring-like abstraction.
 - [webview](https://github.com/janet-lang/webview) Electron-like
   webview bindings.
 
-## Database
+## Package Management
 
-- [sqlite3](https://github.com/janet-lang/sqlite3) Sqlite bindings
-- [janet-pq](https://github.com/andrewchambers/janet-pq) Postgres bindings
-- [janet-redis](https://github.com/andrewchambers/janet-redis) Redis bindings
-- [tahani](https://github.com/good-place/tahani) LevelDB bindings
-- [mansion](https://github.com/good-place/mansion) LevelDB store abstraction
+- [pkgs](https://github.com/janet-lang/pkgs) The official package listing for Janet.
+- [hermes](https://github.com/andrewchambers/hermes) Nix/Guix like
+  software environment manager.
 
 ## Serialization
 
 - [json](https://github.com/janet-lang/json) JSON library
 - [jdn](https://github.com/andrewchambers/janet-jdn) Janet Data Notation library
-
-## Random
-
-- [Spork](https://github.com/janet-lang/spork) Various Janet utility
-  modules (includes a code formatter).
-- [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
 
 ## Testing
 
@@ -125,6 +106,28 @@ library with a Clojure Ring-like abstraction.
   inspired by clojure.test
 - [tester](https://github.com/joy-framework/tester) A testing library
   extracted from the Joy project
+
+## Web
+
+### Client
+
+- [jurl](https://github.com/sepisoad/jurl) Janet bindings for libcurl
+
+### Frameworks
+
+- [Joy](https://github.com/joy-framework/joy) Full stack web framework
+- [Chidi](https://github.com/good-place/chidi) API oriented web framework (WIP).
+
+### Server
+
+- [Circlet](https://github.com/janet-lang/circlet) HTTP and networking
+library with a Clojure Ring-like abstraction.
+
+## Random
+
+- [Spork](https://github.com/janet-lang/spork) Various Janet utility
+  modules (includes a code formatter).
+- [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
 
 # Related tooling/projects
 
