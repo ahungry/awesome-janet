@@ -121,7 +121,8 @@ and comes with the Janet distribution.
 
 ### Frontend/JS
 
-- [janetscript](https://github.com/ahungry/janetscript) Janet to JS Transpiler
+- [janet-js](https://github.com/staab/janet-js) A compiler written in janet, to compile (a subset of) janet to javascript.
+- [Ahungry's Janet to JS Transpiler](https://github.com/ahungry/ahungry-janet-to-js) Janet to JS Transpiler
 
 ### Server
 
