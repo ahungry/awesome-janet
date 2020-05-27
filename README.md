@@ -15,6 +15,7 @@ across one, feel free to make a PR.
     - [Vim](#vim)
     - [VS](#vs)
 - [JPM installable packages](#jpm-installable-packages)
+    - [Concurrency](#concurrency)
     - [Continuous Integration](#continuous-integration)
         - [GitHub Actions](#github-actions)
     - [Database](#database)
@@ -61,6 +62,10 @@ Studio Code plugin (Syntax highlighting, Eval sexp/file)
 
 JPM (Janet Package Manager) is the official package manager of Janet
 and comes with the Janet distribution.
+
+## Concurrency
+
+- [janet-pobox](https://github.com/ahungry/janet-pobox) - Clojure like atoms
 
 ## Continuous Integration
 
