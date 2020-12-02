@@ -167,3 +167,4 @@ libcurl, sqlite)
   - <https://ahungry.com/blog/index.html>
   - <https://articles.inqk.net/>
   - [Jason Pepas' Technical Blog](https://gist.github.com/cellularmitosis/1106b185f8b34ae0e36afa5fbcd04a00)
+  - <https://blog.zdsmith.com/index.html>
