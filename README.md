@@ -32,6 +32,7 @@ across one, feel free to make a PR.
         - [Server](#server)
     - [Random](#random)
 - [Related tooling/projects](#related-toolingprojects)
+- [For your reading pleasure](#for-your-reading-pleasure)
 
 <!-- markdown-toc end -->
 
@@ -157,3 +158,13 @@ libcurl, sqlite)
   auto-generates bindings from C header files and/or SWIG interface
   files, and produces the appropriate Janet-wrap bindings (tested/used
   on IUP, libcurl, libcairo and more).
+
+# For your reading pleasure
+
+  - <https://bakpakin.com/writing/index.html>
+  - <https://swlkr.com/>
+  - <https://acha.ninja/>
+  - <https://ahungry.com/blog/index.html>
+  - <https://articles.inqk.net/>
+  - [Jason Pepas' Technical Blog](https://gist.github.com/cellularmitosis/1106b185f8b34ae0e36afa5fbcd04a00)
+  - <https://blog.zdsmith.com/index.html>
