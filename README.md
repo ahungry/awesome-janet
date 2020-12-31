@@ -168,3 +168,4 @@ libcurl, sqlite)
   - <https://articles.inqk.net/>
   - [Jason Pepas' Technical Blog](https://gist.github.com/cellularmitosis/1106b185f8b34ae0e36afa5fbcd04a00)
   - <https://blog.zdsmith.com/index.html>
+  - A few articles on [getting started with and using Jaylib](http://www.unexpected-vortices.com/janet/jaylib/jaylib-1.html)
