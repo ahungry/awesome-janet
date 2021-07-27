@@ -158,6 +158,7 @@ libcurl, sqlite)
   auto-generates bindings from C header files and/or SWIG interface
   files, and produces the appropriate Janet-wrap bindings (tested/used
   on IUP, libcurl, libcairo and more).
+- [Powered by Janet](https://goto-engineering.github.io/powered-by-janet/) A collection of all things written in Janet
 
 # For your reading pleasure
 
