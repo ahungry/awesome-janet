@@ -93,6 +93,7 @@ and comes with the Janet distribution.
 ## GUI
 
 - [janetui](https://github.com/janet-lang/janetui) Bindings to libui
+- [jermbox](https://github.com/MorganPeterson/jermbox) Bindings to Termbox
 - [webview](https://github.com/janet-lang/webview) Electron-like
   webview bindings.
 
@@ -143,6 +144,7 @@ library with a Clojure Ring-like abstraction.
   modules (includes a code formatter).
 - [janet-sh](https://github.com/andrewchambers/janet-sh) Shell like short hands for running commands in janet code.
 - [argparse](https://github.com/janet-lang/argparse) CLI argument parser for Janet
+- [args](https://github.com/MorganPeterson/args) A simple (KISS) CLI argument parser
 
 # Related tooling/projects
 
