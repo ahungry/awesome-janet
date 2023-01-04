@@ -126,7 +126,7 @@ and comes with the Janet distribution.
 ### Frameworks
 
 - [Joy](https://github.com/joy-framework/joy) Full stack web framework
-- [Chidi](https://github.com/good-place/chidi) API oriented web framework (WIP).
+- [Chidi](https://git.sr.ht/~pepe/chidi) API oriented web framework (WIP).
 - [Ahungry Janet](https://github.com/ahungry/ahungry-janet) Curated
   library of other Janet packages with custom additions.
 
