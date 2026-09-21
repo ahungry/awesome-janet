@@ -155,6 +155,7 @@ Janet/JPM ecosystem, but are of potential interest to the Janet
 audience and have direct usage for Janet projects.
 
 - [janetdocs](https://janetdocs.com/) Community doc site
+- [Janet docset](https://github.com/gouch/janet-docset) [Zeal](https://zealdocs.org/)/Dash documentation set for Janet.
 - [Puny GUI](https://github.com/ahungry/puny-gui) Pre-built
 cross-platform distribution of Janet runtime with extras (native GUI,
 libcurl, sqlite)
